@@ -2,10 +2,10 @@
 
 # Sobre o projeto
 
-<p>Consiste na realização das atividades do curso em video com ênfase na programação phyton,
+<p>Consiste na realização das atividades do curso em video com ênfase na programação Python,
 com intuito de criar um caminho para usuários iniciantes na linguagem de programação.<br/>
-Os projetos postados foram atividades que realizei ate o momento, 
-continuarei alimentando no decorrer das atividades feitas por mim.
+Os projetos postados foram atividades que realizei até o momento, 
+continuarei alimentando o projeto no decorrer das atividades.
 </P>
 
 # Perfil - Curso em video 
