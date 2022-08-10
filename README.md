@@ -94,11 +94,11 @@ https://www.youtube.com/watch?v=QroT8cZMRnc&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmM
 Exercício Python #025 - Procurando uma string dentro de outra<br/>
 https://www.youtube.com/watch?v=WHWGz2Dy1ZU&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=26
 
-Exercício Python #026 - Primeira e última ocorrência de uma string
+Exercício Python #026 - Primeira e última ocorrência de uma string<br/>
 https://www.youtube.com/watch?v=23UOVEetNPY&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=28
 
-Exercício Python #027 - Primeiro e último nome de uma pessoa
+Exercício Python #027 - Primeiro e último nome de uma pessoa<br/>
 https://www.youtube.com/watch?v=SifYYsXhLM8&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=28
 
-Exercício Python #028 - Jogo da Adivinhação v.1.0
+Exercício Python #028 - Jogo da Adivinhação v.1.0<br/>
 https://www.youtube.com/watch?v=kchC5KLZSZ4&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=29
